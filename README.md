@@ -62,4 +62,6 @@ An overview of the TastyHub interface is shown below:
 
 <img width="1920" height="1080" alt="Admin table" src="https://github.com/user-attachments/assets/425f524d-d9a2-4f0c-b97f-74dbedb25d74" />
 
+## Workflow
+<img width="596" height="672" alt="workflow" src="https://github.com/user-attachments/assets/fb8a26db-5f6f-4c00-ac62-c13c414898ac" />
 
