@@ -1,1 +1,2 @@
 TastyHub-OnlineFoodOrderingSystem is an all-in-one platform developed to handle customer management, inventory tracking, and order processing. It comes with secure login, role-specific access control, and seamless integration with a MySQL database. Powered by Spring Boot and Thymeleaf, the system delivers an efficient and user-friendly experience for both administrators and staff members.
+![Uploading Home.png…]()
