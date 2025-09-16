@@ -57,3 +57,9 @@ An overview of the TastyHub interface is shown below:
 <img width="1920" height="1080" alt="order table" src="https://github.com/user-attachments/assets/cf139fdb-bd25-4b3c-8d27-5cf53bf5617b" />
 
 <img width="1920" height="1080" alt="product table" src="https://github.com/user-attachments/assets/5c40e75e-472e-406d-a15c-cacb959c713d" />
+
+<img width="1920" height="1080" alt="user table" src="https://github.com/user-attachments/assets/46b237f1-0be0-4a89-b6e8-ae80d09e6f60" />
+
+<img width="1920" height="1080" alt="Admin table" src="https://github.com/user-attachments/assets/425f524d-d9a2-4f0c-b97f-74dbedb25d74" />
+
+
