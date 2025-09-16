@@ -20,7 +20,7 @@ TastyHub-OnlineFoodOrderingSystem is an all-in-one platform developed to handle 
 - **Database Connectivity:** Uses MySQL for reliable storage and smooth retrieval of application data.
 
 ## Technology Stack
-- **Backend:** Spring Boot, Java 8, Spring MVC, Spring Data JPA (Hibernate)
+- **Backend:** Spring Boot, Java 21, Springboot MVC, Springboot Data JPA (Hibernate)
 - **Frontend:** Thymeleaf, HTML, CSS, JavaScript
 - **Database:** MySQL
 - **IDE:** Eclipse, Spring Tool Suite (STS)
